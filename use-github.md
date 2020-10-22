@@ -12,7 +12,7 @@
 ## 查看github的历史提交版本，并定位到历史版本
 1. 打开项目，点x commits
 2. 点想看的历史版本右侧的<>
-3. download代码
+3. download代码，注意clone下来的是最新版本，zip是历史版本
 
 ## 从github仓库clone项目
 1. 在本地建好存放项目的文件夹
